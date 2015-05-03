@@ -9,6 +9,8 @@ gem "mini_magick"
 # jquery-rails is used by the dummy application
 gem "jquery-rails"
 
+gem 'sass-rails'
+
 gem "rspec-rails", "~> 2.10.1"
 gem "factory_girl_rails", "~> 3.2.0"
 gem "database_cleaner"
